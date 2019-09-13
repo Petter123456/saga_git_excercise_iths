@@ -1,0 +1,145 @@
+[33mcommit e0eaadf69ea2d9132803e962fa3a43aa78ac8be9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: d9b719e e47cd5a
+Author: Petter Fagerlund <petter.fagerlund@gmail.com>
+Date:   Fri Sep 13 14:04:32 2019 +0200
+
+    Merge pull request #7 from EmpaFlux/master
+    
+    Gjorde sidekick
+
+[33mcommit e47cd5a021b8df066a6251d83ed2bea27bca8cc1[m
+Merge: 3efd335 d9b719e
+Author: Petter Fagerlund <petter.fagerlund@gmail.com>
+Date:   Fri Sep 13 14:04:25 2019 +0200
+
+    Merge branch 'master' into master
+
+[33mcommit 3efd3356bd6a4432962ee3f19f180bc41be58774[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Emil <Penzon88@gmail.com>
+Date:   Fri Sep 13 14:02:24 2019 +0200
+
+    Gjorde sidekick
+
+[33mcommit d9b719e3e9ff3fcb83d8f0a011e131c926d8edd5[m
+Merge: 20cedc3 70c0af9
+Author: Petter Fagerlund <petter.fagerlund@gmail.com>
+Date:   Fri Sep 13 13:58:22 2019 +0200
+
+    Merge pull request #6 from Petter123456/petter
+    
+    Petter
+
+[33mcommit 70c0af974edbdeb9ca736f1abd95b25423fd0958[m
+Merge: da9ac1a 20cedc3
+Author: Petter Fagerlund <petter.fagerlund@gmail.com>
+Date:   Fri Sep 13 13:58:13 2019 +0200
+
+    Merge branch 'master' into petter
+
+[33mcommit da9ac1a1bec2905c0b022d6a8b7a086a2d21c785[m
+Author: Petter Fagerlund <petter.fagerlund@gmail.com>
+Date:   Fri Sep 13 13:56:26 2019 +0200
+
+    added weapons for villain and hearo
+
+[33mcommit 20cedc317301707e7e8603cf485bfc6d9b9ff6f2[m
+Merge: 122744a 2bb8328
+Author: Petter Fagerlund <petter.fagerlund@gmail.com>
+Date:   Fri Sep 13 13:52:51 2019 +0200
+
+    Merge pull request #5 from EmpaFlux/master
+    
+    La till beskrivningar
+
+[33mcommit 2bb83281d7ff49590683be2beaa6c47cd1a75ec3[m
+Author: Emil <Penzon88@gmail.com>
+Date:   Fri Sep 13 13:51:02 2019 +0200
+
+    La till beskrivningar
+
+[33mcommit 122744a17bbd1ed148e839a5a692971bfaaf12b5[m
+Merge: 3d77ae9 cab6bf8
+Author: Petter Fagerlund <petter.fagerlund@gmail.com>
+Date:   Fri Sep 13 13:38:30 2019 +0200
+
+    Merge pull request #4 from EmpaFlux/master
+    
+    Ändring på 4
+
+[33mcommit cab6bf83eb19314eac1e9b9455d78d8bfe1a89f4[m
+Author: Emil <Penzon88@gmail.com>
+Date:   Fri Sep 13 13:37:21 2019 +0200
+
+    Ändring på 4
+
+[33mcommit 3d77ae974046ee52f2312ae4d587292026d81b88[m
+Merge: 3fa76d8 36dca68
+Author: Petter Fagerlund <petter.fagerlund@gmail.com>
+Date:   Fri Sep 13 13:14:36 2019 +0200
+
+    Merge pull request #3 from atCordain/master
+    
+    Updated epic questS
+
+[33mcommit 36dca6851b6239fc0bf43e3b805f2df3c22f107d[m
+Author: Tommy Karlsson <pctkar@gmail.com>
+Date:   Fri Sep 13 13:13:01 2019 +0200
+
+    Updated epic questS
+
+[33mcommit fd530e361081fdee517b17d1f824a7b7cc38d2c4[m
+Author: Petter Fagerlund <petter.fagerlund@gmail.com>
+Date:   Fri Sep 13 13:07:16 2019 +0200
+
+    added text to 2_Villan
+
+[33mcommit 3fa76d8011cf54757c6b622fdf15e965a0b229df[m
+Author: Tommy Karlsson <pctkar@gmail.com>
+Date:   Fri Sep 13 13:06:59 2019 +0200
+
+    Updated epic quest, added localization
+
+[33mcommit 3bd00ca2c2b5056ce8b191f006c011915e39916d[m
+Merge: 50824c5 8adb0cf
+Author: Petter Fagerlund <petter.fagerlund@gmail.com>
+Date:   Fri Sep 13 12:57:53 2019 +0200
+
+    Merge pull request #1 from Petter123456/petter
+    
+    Petter
+
+[33mcommit 8adb0cf16eae185875fe1191c663e2d3c6cab1b3[m
+Author: Petter Fagerlund <petter.fagerlund@gmail.com>
+Date:   Fri Sep 13 12:56:10 2019 +0200
+
+    added text to 1_tale_begins
+
+[33mcommit 7c5741cd1b64986320eaa4cd3ba91fc1eea8bee0[m
+Author: Petter Fagerlund <petter.fagerlund@gmail.com>
+Date:   Fri Sep 13 12:54:33 2019 +0200
+
+    added text to 1_tale_begins
+
+[33mcommit 50824c5b1299eb8be2a91859485232d3926e5da4[m
+Author: Petter Fagerlund <petter.fagerlund@gmail.com>
+Date:   Fri Sep 13 12:49:26 2019 +0200
+
+    added 3 files
+
+[33mcommit 81e386b9b03792d2a7eea6ba2942dca95c5d28ef[m
+Author: Petter Fagerlund <petter.fagerlund@gmail.com>
+Date:   Fri Sep 13 12:47:37 2019 +0200
+
+    added 3 new files
+
+[33mcommit 3c1e5d43b7d2a2fd54f2af1e1c903216e87fecab[m
+Author: Petter Fagerlund <petter.fagerlund@gmail.com>
+Date:   Fri Sep 13 12:45:11 2019 +0200
+
+    created 3 new files
+
+[33mcommit 688945cade83311e3b7b6037eeae133ecb94e377[m
+Author: Petter Fagerlund <petter.fagerlund@gmail.com>
+Date:   Fri Sep 13 12:37:12 2019 +0200
+
+    initial commit
